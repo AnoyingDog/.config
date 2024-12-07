@@ -1,6 +1,6 @@
 Just my personal config
 
-Feel free to copy anything you want here, just like I copied it as well. Although I wouldn't recommend cloning my entire configs, but instead to copy bits and pieces as you put together your own config especially for your needs.
+Feel free to copy anything you want here, just like I copied it as well. Although I wouldn't recommend cloning my entire configs, but instead to copy bits and pieces as you put together your own config specially crafted for your needs.
 
 ## What Software I use
 
