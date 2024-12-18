@@ -5,6 +5,6 @@ vim.cmd("set shiftwidth=2")
 vim.g.mapleader = " "
 vim.opt.clipboard = "unnamedplus"
 vim.wo.relativenumber = true
-vim.opt.scrolloff = 5
+vim.opt.scrolloff = 7
 vim.opt.autoindent = true
 vim.opt.smartindent = true
